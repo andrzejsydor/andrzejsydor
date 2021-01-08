@@ -1,9 +1,3 @@
-### Hi there 👋
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrzejsydor&show_icons=true&locale=en&line_height=27" alt="xtenzq" />
-
-
 <!--
 **andrzejsydor/andrzejsydor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +19,5 @@ Here are some ideas to get you started:
 <p align=left> <img src=https://komarev.com/ghpvc/?username=andrzejsydor alt=andrzejsydor /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=andrzejsydor&show_icons=true&include_all_commits=true)](https://github.com/andrzejsydor/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrzejsydor&layout=compact)](https://github.com/andrzejsydor/github-readme-stats)
