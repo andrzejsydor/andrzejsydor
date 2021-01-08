@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrzejsydor&show_icons=true&locale=en&line_height=27" alt="xtenzq" />
+
+
 <!--
 **andrzejsydor/andrzejsydor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
