@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ## Hey 👋, 
-[![Linkedin Badge](https://img.shields.io/badge/-andrzejsydor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrzejsydor/)](https://www.linkedin.com/in/andrzejsydor/) [![Github Badge](https://img.shields.io/badge/-andrzejsydor-grey?style=flat&logo=github&logoColor=white&link=https://github.com/andrzejsydor/)](https://www.github.com/andrzejsydor/) [![Twitter Badge](https://img.shields.io/badge/-AndrzejSydor-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AndrzejSydor/)](https://www.twitter.com/AndrzejSydor/) 
-
+[![Linkedin Badge](https://img.shields.io/badge/-andrzejsydor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrzejsydor/)](https://www.linkedin.com/in/andrzejsydor/) [![Github Badge](https://img.shields.io/badge/-andrzejsydor-grey?style=flat&logo=github&logoColor=white&link=https://github.com/andrzejsydor/)](https://www.github.com/andrzejsydor/) 
+[![Twitter Badge](https://img.shields.io/badge/-AndrzejSydor-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AndrzejSydor/)](https://www.twitter.com/AndrzejSydor/) 
+<!--
+[![](https://img.shields.io/twitter/follow/andrzejsydor.svg?style=social)](https://twitter.com/intent/follow?screen_name=andrzejsydor)
+-->
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
