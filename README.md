@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey 👋, 
+## Hi 👋, I'm Andrzej
 [![Linkedin Badge](https://img.shields.io/badge/-andrzejsydor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrzejsydor/)](https://www.linkedin.com/in/andrzejsydor/) [![Github Badge](https://img.shields.io/badge/-andrzejsydor-grey?style=flat&logo=github&logoColor=white&link=https://github.com/andrzejsydor/)](https://www.github.com/andrzejsydor/) 
 [![Twitter Badge](https://img.shields.io/badge/-AndrzejSydor-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AndrzejSydor/)](https://www.twitter.com/AndrzejSydor/) 
 <!--
