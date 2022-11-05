@@ -46,6 +46,14 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrzejsydor" alt="andrzejsydor" /></a> </p>
 
+## Badges
+
+[Credly](https://www.credly.com/users/andrzej-sydor/badges)
+
+[HackerRank](https://www.hackerrank.com/andrzejsydor?hr_r=1)
+
+
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=andrzejsydor alt=andrzejsydor /> </p>
 
