@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrzejsydor&layout=compact)](https://github.com/andrzejsydor/github-readme-stats)
 -->
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrzejsydor&theme=monokai)]
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrzejsydor&theme=monokai)
 
 [stackoverflow](https://stackoverflow.com/users/1029822/andrzej-sydor)
