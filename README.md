@@ -56,11 +56,13 @@ Here are some ideas to get you started:
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=andrzejsydor alt=andrzejsydor /> </p>
-<p align=right> <img src=https://profile-counter.glitch.me/%7Bandrzejsydor%7D/count.svg alt=andrzejsydor /> </p>
+<p align=left> <img src=https://profile-counter.glitch.me/%7Bandrzejsydor%7D/count.svg alt=andrzejsydor /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=andrzejsydor&show_icons=true&include_all_commits=true)](https://github.com/andrzejsydor/github-readme-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrzejsydor&layout=compact)](https://github.com/andrzejsydor/github-readme-stats)
 -->
+
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrzejsydor&theme=monokai
 
 [stackoverflow](https://stackoverflow.com/users/1029822/andrzej-sydor)
