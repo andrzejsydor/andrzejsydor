@@ -52,7 +52,11 @@ Here are some ideas to get you started:
 
 [HackerRank](https://www.hackerrank.com/andrzejsydor?hr_r=1)
 
+[LeetCode](https://leetcode.com/andrzejsydor/)
 
+### StackOverflow
+
+[stackoverflow](https://stackoverflow.com/users/1029822/andrzej-sydor)
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=andrzejsydor alt=andrzejsydor /> </p>
@@ -65,4 +69,3 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrzejsydor&theme=monokai)
 
-[stackoverflow](https://stackoverflow.com/users/1029822/andrzej-sydor)
