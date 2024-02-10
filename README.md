@@ -54,9 +54,7 @@ Here are some ideas to get you started:
 
 [LeetCode](https://leetcode.com/andrzejsydor/)
 
-### StackOverflow
-
-[stackoverflow](https://stackoverflow.com/users/1029822/andrzej-sydor)
+### [StackOverflow](https://stackoverflow.com/users/1029822/andrzej-sydor)
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=andrzejsydor alt=andrzejsydor /> </p>
