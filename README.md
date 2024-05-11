@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 
 ### [StackOverflow](https://stackoverflow.com/users/1029822/andrzej-sydor)
 
+
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=andrzejsydor alt=andrzejsydor /> </p>
 <p align=left> <img src=https://profile-counter.glitch.me/%7Bandrzejsydor%7D/count.svg alt=andrzejsydor /> </p>
