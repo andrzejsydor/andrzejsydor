@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ## Hi 👋, I'm Andrzej
 [![Linkedin Badge](https://img.shields.io/badge/-andrzejsydor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrzejsydor/)](https://www.linkedin.com/in/andrzejsydor/) [![Github Badge](https://img.shields.io/badge/-andrzejsydor-grey?style=flat&logo=github&logoColor=white&link=https://github.com/andrzejsydor/)](https://www.github.com/andrzejsydor/) 
 [![Twitter Badge](https://img.shields.io/badge/-AndrzejSydor-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AndrzejSydor/)](https://www.twitter.com/AndrzejSydor/) 
+
 <!--
 [![](https://img.shields.io/twitter/follow/andrzejsydor.svg?style=social)](https://twitter.com/intent/follow?screen_name=andrzejsydor)
 -->
@@ -53,6 +54,8 @@ Here are some ideas to get you started:
 [HackerRank](https://www.hackerrank.com/andrzejsydor?hr_r=1)
 
 [LeetCode](https://leetcode.com/andrzejsydor/)
+
+[Pluralsight / A Cloud Guru](https://app.pluralsight.com/profile/andrzej-sydor)
 
 ### [StackOverflow](https://stackoverflow.com/users/1029822/andrzej-sydor)
 
