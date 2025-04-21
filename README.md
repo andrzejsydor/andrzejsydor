@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 
 [LeetCode](https://leetcode.com/andrzejsydor/)
 
+[Linux Academy](https://openprofile.dev/profile/andrzejsydor)
+
 [Pluralsight / A Cloud Guru](https://app.pluralsight.com/profile/andrzej-sydor)
 
 ### [StackOverflow](https://stackoverflow.com/users/1029822/andrzej-sydor)
