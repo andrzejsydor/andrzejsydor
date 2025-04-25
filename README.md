@@ -41,10 +41,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 -->
 
-<!--
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
--->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrzejsydor" alt="andrzejsydor" /></a> </p>
 
@@ -66,6 +62,7 @@ Here are some ideas to get you started:
 
 [Web Security with OWASP Top 10 Learning Path](https://www.secureflag.com/s?c254e1d0-95a8-4800-be51-7d892a688bf9)
 
+[OWASP Top 10:2021 in Java Learning Path](https://www.secureflag.com/s?974c4c6f-630f-435d-8f94-8b4c2e6f5a3f)
 
 
 ## Some of my Github Stats
