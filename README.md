@@ -1,17 +1,3 @@
-<!--
-**andrzejsydor/andrzejsydor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Hi 👋, I'm Andrzej
 [![Linkedin Badge](https://img.shields.io/badge/-andrzejsydor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrzejsydor/)](https://www.linkedin.com/in/andrzejsydor/) [![Github Badge](https://img.shields.io/badge/-andrzejsydor-grey?style=flat&logo=github&logoColor=white&link=https://github.com/andrzejsydor/)](https://www.github.com/andrzejsydor/) 
@@ -63,6 +49,8 @@ Here are some ideas to get you started:
 [Web Security with OWASP Top 10 Learning Path](https://www.secureflag.com/s?c254e1d0-95a8-4800-be51-7d892a688bf9)
 
 [OWASP Top 10:2021 in Java Learning Path](https://www.secureflag.com/s?974c4c6f-630f-435d-8f94-8b4c2e6f5a3f)
+
+[OWASP API Security Top 10:2023 in Java Learning Path](https://www.secureflag.com/s?c5b411be-3f9a-437a-ae47-99c1a4dd6612)
 
 
 ## Some of my Github Stats
