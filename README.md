@@ -62,6 +62,10 @@ Here are some ideas to get you started:
 
 ### [StackOverflow](https://stackoverflow.com/users/1029822/andrzej-sydor)
 
+### Secure Flag
+
+[Web Security with OWASP Top 10 Learning Path](https://www.secureflag.com/s?c254e1d0-95a8-4800-be51-7d892a688bf9)
+
 
 
 ## Some of my Github Stats
