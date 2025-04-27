@@ -1,5 +1,8 @@
 ## Hi 👋, I'm Andrzej
-[![Linkedin Badge](https://img.shields.io/badge/-andrzejsydor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrzejsydor/)](https://www.linkedin.com/in/andrzejsydor/) [![Github Badge](https://img.shields.io/badge/-andrzejsydor-grey?style=flat&logo=github&logoColor=white&link=https://github.com/andrzejsydor/)](https://www.github.com/andrzejsydor/) 
+<!--
+[![Linkedin Badge](https://img.shields.io/badge/-andrzejsydor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrzejsydor/)](https://www.linkedin.com/in/andrzejsydor/) 
+-->
+[![Github Badge](https://img.shields.io/badge/-andrzejsydor-grey?style=flat&logo=github&logoColor=white&link=https://github.com/andrzejsydor/)](https://www.github.com/andrzejsydor/) 
 [![Twitter Badge](https://img.shields.io/badge/-AndrzejSydor-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AndrzejSydor/)](https://www.twitter.com/AndrzejSydor/) 
 
 <!--
@@ -28,6 +31,8 @@
 [LeetCode](https://leetcode.com/andrzejsydor/)
 
 [Linux Academy](https://openprofile.dev/profile/andrzejsydor)
+
+[Linux Foundation openprofile](https://openprofile.dev/profile/andrzejsydor)
 
 [Pluralsight / A Cloud Guru](https://app.pluralsight.com/profile/andrzej-sydor)
 
