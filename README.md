@@ -1,4 +1,3 @@
-
 ## Hi 👋, I'm Andrzej
 [![Linkedin Badge](https://img.shields.io/badge/-andrzejsydor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrzejsydor/)](https://www.linkedin.com/in/andrzejsydor/) [![Github Badge](https://img.shields.io/badge/-andrzejsydor-grey?style=flat&logo=github&logoColor=white&link=https://github.com/andrzejsydor/)](https://www.github.com/andrzejsydor/) 
 [![Twitter Badge](https://img.shields.io/badge/-AndrzejSydor-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AndrzejSydor/)](https://www.twitter.com/AndrzejSydor/) 
@@ -8,22 +7,15 @@
 -->
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 <!--
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 -->
-
-<!--
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
--->
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrzejsydor" alt="andrzejsydor" /></a> </p>
 
