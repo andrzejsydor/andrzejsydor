@@ -46,6 +46,7 @@
 
 [OWASP API Security Top 10:2023 in Java Learning Path](https://www.secureflag.com/s?c5b411be-3f9a-437a-ae47-99c1a4dd6612)
 
+[Introduction to Offensive Web Security for Developers Learning Path](https://www.secureflag.com/s?07cbb4ab-1740-4fce-9d53-e24b599c30a4)
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=andrzejsydor alt=andrzejsydor /> </p>
