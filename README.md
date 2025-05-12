@@ -48,6 +48,8 @@
 
 [Introduction to Offensive Web Security for Developers Learning Path](https://www.secureflag.com/s?07cbb4ab-1740-4fce-9d53-e24b599c30a4)
 
+[Introductory Practical Application Security With OWASP Top 10 Learning Path](https://www.secureflag.com/s?64296cf3-38b4-4c7b-ad10-a70181dd4c4d)
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=andrzejsydor alt=andrzejsydor /> </p>
 <!-- <p align=left> <img src=https://profile-counter.glitch.me/%7Bandrzejsydor%7D/count.svg alt=andrzejsydor /> </p> -->
