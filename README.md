@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Kubernetes-informational?logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Kafka-informational)
+![](https://img.shields.io/badge/Security-8A2BE2)
 
 <!--
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
