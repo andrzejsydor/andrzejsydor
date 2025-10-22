@@ -51,6 +51,10 @@
 
 [Introductory Practical Application Security With OWASP Top 10 Learning Path](https://www.secureflag.com/s?64296cf3-38b4-4c7b-ad10-a70181dd4c4d)
 
+[Introductory Secure DevOps with Docker](https://www.secureflag.com/s?0ec1b037-36ff-46ad-9609-85fb78b7c9a9)
+
+[Introductory Secure DevOps with Kubernetes](https://www.secureflag.com/s?6ed3fa4f-3c4a-41a5-a075-db172aeaa4c9)
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=andrzejsydor alt=andrzejsydor /> </p>
 <!-- <p align=left> <img src=https://profile-counter.glitch.me/%7Bandrzejsydor%7D/count.svg alt=andrzejsydor /> </p> -->
