@@ -25,7 +25,9 @@
 
 ## Badges
 
-[Credly](https://www.credly.com/users/andrzej-sydor/badges)
+[Credly - 20 badges](https://www.credly.com/users/andrzej-sydor/badges)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/95512fe2-bebd-43f5-878c-5279a2a5742a)
+- [AWS Certified Security – Specialty](https://www.credly.com/badges/13f8dacd-57ab-4ef0-81bd-561382f0cc88)
 
 [HackerRank](https://www.hackerrank.com/andrzejsydor?hr_r=1)
 
