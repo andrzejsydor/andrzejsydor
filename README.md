@@ -63,6 +63,9 @@
 <!-- <p align=left> <img src=https://profile-counter.glitch.me/%7Bandrzejsydor%7D/count.svg alt=andrzejsydor /> </p> -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=andrzejsydor&show_icons=true&include_all_commits=true)](https://github.com/andrzejsydor/github-readme-stats)
+
+[![](https://github-readme-stats.vercel.app/api?username=andrzejsydor)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrzejsydor&layout=compact)](https://github.com/andrzejsydor/github-readme-stats)
 -->
