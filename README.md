@@ -69,3 +69,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrzejsydor&theme=monokai)
 
+![](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=andrzejsydor&mode=repo-aggregate)
+
+
