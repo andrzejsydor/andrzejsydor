@@ -9,12 +9,13 @@
 [![](https://img.shields.io/twitter/follow/andrzejsydor.svg?style=social)](https://twitter.com/intent/follow?screen_name=andrzejsydor)
 -->
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Kubernetes-informational?logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Kafka-informational)
-![](https://img.shields.io/badge/Security-8A2BE2)
+![](https://img.shields.io/badge/Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Security-informational?style=flat&logo=security&logoColor=white&color=8A2BE2)
+
 
 <!--
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
