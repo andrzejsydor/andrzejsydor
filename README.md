@@ -16,39 +16,50 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrzejsydor" alt="andrzejsydor" /></a> </p>
 
-## Badges
 
-[Credly - 20 badges](https://www.credly.com/users/andrzej-sydor/badges)
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/95512fe2-bebd-43f5-878c-5279a2a5742a)
-- [AWS Certified Security – Specialty](https://www.credly.com/badges/13f8dacd-57ab-4ef0-81bd-561382f0cc88)
+---
 
-[HackerRank](https://www.hackerrank.com/andrzejsydor?hr_r=1)
+## 🏆 Certifications & Achievements
 
-[LeetCode](https://leetcode.com/andrzejsydor/)
+### AWS Certifications
+<div align="left">
+  
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/95512fe2-bebd-43f5-878c-5279a2a5742a)
+[![AWS Certified Security – Specialty](https://img.shields.io/badge/AWS_Security-Specialty-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/13f8dacd-57ab-4ef0-81bd-561382f0cc88)
 
-[Linux Academy](https://openprofile.dev/profile/andrzejsydor)
+[View all 20 badges on Credly →](https://www.credly.com/users/andrzej-sydor/badges)
 
-[Linux Foundation openprofile](https://openprofile.dev/profile/andrzejsydor)
+</div>
 
-[Pluralsight / A Cloud Guru](https://app.pluralsight.com/profile/andrzej-sydor)
+### Security Training & Certifications
+<div align="left">
 
-### [StackOverflow](https://stackoverflow.com/users/1029822/andrzej-sydor)
+- [Web Security with OWASP Top 10 Learning Path](https://www.secureflag.com/s?c254e1d0-95a8-4800-be51-7d892a688bf9)
+- [OWASP Top 10:2021 in Java Learning Path](https://www.secureflag.com/s?974c4c6f-630f-435d-8f94-8b4c2e6f5a3f)
+- [OWASP API Security Top 10:2023 in Java Learning Path](https://www.secureflag.com/s?c5b411be-3f9a-437a-ae47-99c1a4dd6612)
+- [Introduction to Offensive Web Security for Developers](https://www.secureflag.com/s?07cbb4ab-1740-4fce-9d53-e24b599c30a4)
+- [Introductory Practical Application Security With OWASP Top 10](https://www.secureflag.com/s?64296cf3-38b4-4c7b-ad10-a70181dd4c4d)
+- [Introductory Secure DevOps with Docker](https://www.secureflag.com/s?0ec1b037-36ff-46ad-9609-85fb78b7c9a9)
+- [Introductory Secure DevOps with Kubernetes](https://www.secureflag.com/s?6ed3fa4f-3c4a-41a5-a075-db172aeaa4c9)
 
-### Secure Flag
+</div>
 
-[Web Security with OWASP Top 10 Learning Path](https://www.secureflag.com/s?c254e1d0-95a8-4800-be51-7d892a688bf9)
+### Coding Platforms
+<div align="left">
 
-[OWASP Top 10:2021 in Java Learning Path](https://www.secureflag.com/s?974c4c6f-630f-435d-8f94-8b4c2e6f5a3f)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/andrzejsydor?hr_r=1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/andrzejsydor/)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1029822/andrzej-sydor)
 
-[OWASP API Security Top 10:2023 in Java Learning Path](https://www.secureflag.com/s?c5b411be-3f9a-437a-ae47-99c1a4dd6612)
+</div>
 
-[Introduction to Offensive Web Security for Developers Learning Path](https://www.secureflag.com/s?07cbb4ab-1740-4fce-9d53-e24b599c30a4)
+### Learning Platforms
+<div align="left">
 
-[Introductory Practical Application Security With OWASP Top 10 Learning Path](https://www.secureflag.com/s?64296cf3-38b4-4c7b-ad10-a70181dd4c4d)
+[![Linux Foundation](https://img.shields.io/badge/Linux_Foundation-000000?style=flat&logo=linux-foundation&logoColor=white)](https://openprofile.dev/profile/andrzejsydor)
+[![Pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?style=flat&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/andrzej-sydor)
 
-[Introductory Secure DevOps with Docker](https://www.secureflag.com/s?0ec1b037-36ff-46ad-9609-85fb78b7c9a9)
-
-[Introductory Secure DevOps with Kubernetes](https://www.secureflag.com/s?6ed3fa4f-3c4a-41a5-a075-db172aeaa4c9)
+</div>
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=andrzejsydor alt=andrzejsydor /> </p>
