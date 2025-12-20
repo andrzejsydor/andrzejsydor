@@ -1,13 +1,10 @@
 ## Hi 👋, I'm Andrzej
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-andrzejsydor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrzejsydor/)](https://www.linkedin.com/in/andrzejsydor/) 
--->
+
+> Software Engineer specializing in Java, AWS, and cloud-native architectures. Passionate about building scalable, secure microservices and contributing to open-source projects.
+
 [![Github Badge](https://img.shields.io/badge/-andrzejsydor-grey?style=flat&logo=github&logoColor=white&link=https://github.com/andrzejsydor/)](https://www.github.com/andrzejsydor/) 
 [![Twitter Badge](https://img.shields.io/badge/-AndrzejSydor-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AndrzejSydor/)](https://www.twitter.com/AndrzejSydor/) 
 
-<!--
-[![](https://img.shields.io/twitter/follow/andrzejsydor.svg?style=social)](https://twitter.com/intent/follow?screen_name=andrzejsydor)
--->
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
@@ -16,12 +13,6 @@
 ![](https://img.shields.io/badge/Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Security-informational?style=flat&logo=security&logoColor=white&color=8A2BE2)
 
-
-<!--
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
--->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrzejsydor" alt="andrzejsydor" /></a> </p>
 
@@ -76,3 +67,22 @@
 ![](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=andrzejsydor&mode=repo-aggregate)
 
 
+---
+
+## 🤝 Let's Connect
+
+<div align="left">
+
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrzejsydor/) -->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrzejsydor)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndrzejSydor)
+
+</div>
+
+---
+
+<div align="center">
+
+  **Thanks for visiting!** ⭐
+  
+</div>
