@@ -46,6 +46,15 @@
 
 </div>
 
+### AI Training & Certifications
+<div align="left">
+
+- [Claude Code in Action](https://verify.skilljar.com/c/6a633ppc4xu4)
+- [Claude 101](https://verify.skilljar.com/c/ux3txxzi5vz3)
+
+</div>
+
+
 ### Coding Platforms
 <div align="left">
 
