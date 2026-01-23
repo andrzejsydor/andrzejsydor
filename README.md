@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Security-informational?style=flat&logo=security&logoColor=white&color=8A2BE2)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=andrzejsydor" alt="andrzejsydor" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=andrzejsydor" alt="andrzejsydor" /></a> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrzejsydor" alt="andrzejsydor" /></a> </p> -->
 
